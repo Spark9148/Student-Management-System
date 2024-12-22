@@ -18,9 +18,11 @@ Getting Started:
 
 To get started with the Student Management System, follow these steps:
 
+## Download and install Xampp from "https://www.apachefriends.org/"  and run Apache and Mysql service from the Xampp cntrol panel ##
+
 1. Clone the repository:
 
-  "git clone https://github.com/Spark9148/Student-Management-System.git"
+  "git clone https://github.com/Spark9148/Student-Management-System.git" or download the entire project in zip
 
 2. Navigate to the project directory:
 
