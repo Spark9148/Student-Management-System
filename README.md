@@ -1,4 +1,4 @@
-Student Management System
+## Student Management System ##
 
 Welcome to the Student Management System repository! This project is designed to provide a comprehensive solution for managing student information efficiently. Built with Python, HTML, CSS, and JavaScript, this system offers a user-friendly interface and robust functionality.
 
@@ -14,11 +14,11 @@ Features
 
 *Secure Authentication: Ensures data security with user authentication.
 
-Getting Started:
+##Getting Started:##
 
 To get started with the Student Management System, follow these steps:
 
-## Download and install Xampp from "https://www.apachefriends.org/"  and run Apache and Mysql service from the Xampp cntrol panel ##
+Download and install Xampp from "https://www.apachefriends.org/"  and run Apache and Mysql service from the Xampp cntrol panel 
 
 1. Clone the repository:
 
