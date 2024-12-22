@@ -18,18 +18,18 @@ Getting Started:
 
 To get started with the Student Management System, follow these steps:
 
-1.Clone the repository:
+1. Clone the repository:
 
-"git clone https://github.com/Spark9148/Student-Management-System.git"
+  "git clone https://github.com/Spark9148/Student-Management-System.git"
 
-2.Navigate to the project directory:
+2. Navigate to the project directory:
 
-"cd Student-Management-System"
+  "cd Student-Management-System"
 
-Install the required dependencies:
+3. Install the required dependencies:
 
-"pip install -r requirements.txt"
+  "pip install -r requirements.txt"
 
-Run the application:
+4. Run the application:
 
-"python main.py"
+  "python main.py"
