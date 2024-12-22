@@ -2,7 +2,7 @@
 
 Welcome to the Student Management System repository! This project is designed to provide a comprehensive solution for managing student information efficiently. Built with Python, HTML, CSS, and JavaScript, this system offers a user-friendly interface and robust functionality.
 
-Features
+## Features ##
 
 *Student Records Management: Teachers can easily add, update, and delete student records.
 
@@ -14,7 +14,7 @@ Features
 
 *Secure Authentication: Ensures data security with user authentication.
 
-##Getting Started:##
+## Getting Started: ##
 
 To get started with the Student Management System, follow these steps:
 
