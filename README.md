@@ -1,4 +1,4 @@
-## Student Management System ##
+# Student Management System #
 
 Welcome to the Student Management System repository! This project is designed to provide a comprehensive solution for managing student information efficiently. Built with Python, HTML, CSS, and JavaScript, this system offers a user-friendly interface and robust functionality.
 
